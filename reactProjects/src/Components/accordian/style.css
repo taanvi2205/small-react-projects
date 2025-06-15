@@ -1,0 +1,30 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+  background-color: rgb(1, 1, 42);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.question {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;          
+}
+
+.answer{
+    display: flex;
+    justify-content: center;
+}
