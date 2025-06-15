@@ -1,0 +1,22 @@
+.colorBox {
+  height: 1000px;
+  width: 1000px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  height: 50px;
+  width: 150px;
+  font-size: 16px;
+  margin: 0 10px;
+}
+
+.button-group {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+  padding-top: 100px;
+}
